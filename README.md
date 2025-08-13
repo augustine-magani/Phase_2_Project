@@ -16,13 +16,13 @@ A production company must understand what factors contribute to a movie’s succ
 
 ### Business Questions
 
-1. Which movie language performs best among different platforms
++ Which movie language performs best among different platforms
 
-2. What trends exist across genres, release periods, and production budgets in relation to success?
++ What trends exist across genres, release periods, and production budgets in relation to success?
 
-3. What is the ideal runtime minutes for a movie?
++ What is the ideal runtime minutes for a movie?
 
-4. Can early popularity forecast long-term success?
++ Can early popularity forecast long-term success?
 
 
 ### Objectives
