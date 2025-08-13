@@ -27,19 +27,19 @@ Can early popularity forecast long-term success?
 
 ### Objectives
 
-Identifying the top ranking movie genres over time
+- Identifying the top ranking movie genres over time
 
-Examining trends in average gross revenue of films over time.
+- Examining trends in average gross revenue of films over time.
 
-Determining the release months with the highest audience engagement
+- Determining the release months with the highest audience engagement
 
-Examining movie production budget over the years
+- Examining movie production budget over the years
 
-Identifying ROI trends over the years
+- Identifying ROI trends over the years
 
-Ranking the top 10 highest-grossing film studios
+- Ranking the top 10 highest-grossing film studios
 
-Determining the most popular movie languages
+- Determining the most popular movie languages
 
 
 ## DATA UNDERSTANDING
