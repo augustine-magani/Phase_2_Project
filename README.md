@@ -1,11 +1,7 @@
-# Phase_2_Project
+# FILM PRODUCTION ANALYSIS
 
 
-
-##FILM PRODUCTION ANALYSIS
-
-
-#INTRO
+## INTRO
 
 Data-driven decision-making has become crucial to ensuring successful investments, targeted marketing, and sustained growth in the film production industry.
 
@@ -13,12 +9,12 @@ This analysis focuses on evaluating and comparing the performance of films liste
 
 
 
-#BUSINESS UNDERSTANDING
+### BUSINESS UNDERSTANDING
 
 A production company must understand what factors contribute to a movie’s success commercially before investing in new films. This entails revenue and also how movies perform across audience platforms.
 
 
-#Business Questions
+### Business Questions
 
 Which movie language performs best among different platforms
 
@@ -29,7 +25,7 @@ What is the ideal runtime minutes for a movie?
 Can early popularity forecast long-term success?
 
 
-#Objectives
+### Objectives
 
 Identifying the top ranking movie genres over time
 
@@ -46,7 +42,7 @@ Ranking the top 10 highest-grossing film studios
 Determining the most popular movie languages
 
 
-#DATA UNDERSTANDING
+## DATA UNDERSTANDING
 
 For this analysis, I used 3 datasets.
 
@@ -63,7 +59,7 @@ The Numbers
 Provides revenue data from The numbers dataset
 
 
-#RECOMMENDATIONS
+## RECOMMENDATIONS
 
 Partnering with High-Grossing Studios such as Sony Pictures, Warner Bros, and 20th Century Fox have shown immense-grossing films and Collaborating or buying their ideas of production and distribution strategies could enhance commercial outcomes.
 
